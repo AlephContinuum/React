@@ -8,3 +8,22 @@ body {
 h1{
     margin-top: 30px;
 }
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+
+.nav-list-it{
+    margin-right: 10px;
+    font-size: 1.1rem;
+}
+
+.nav-logo{
+    width: 55px;
+}
